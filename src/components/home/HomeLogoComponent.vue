@@ -19,27 +19,27 @@
     <div class="ml-24 mt-5 w-[1015] h-[32]">
       <div class="flex gap-16">
         <img
-          src="@/assets/images/logo-component-home/logo-1.png"
+          src="@/assets/images/logo-component-home/Logo-1.png"
           alt="Logo 1"
           class="w-[136px] h-[32px]"
         />
         <img
-          src="@/assets/images/logo-component-home/logo-2.png"
+          src="@/assets/images/logo-component-home/Logo-2.png"
           alt="Logo 2"
           class="w-[136px] h-[32px]"
         />
         <img
-          src="@/assets/images/logo-component-home/logo-3.png"
+          src="@/assets/images/logo-component-home/Logo-3.png"
           alt="Logo 3"
           class="w-[136px] h-[32px]"
         />
         <img
-          src="@/assets/images/logo-component-home/logo-4.png"
+          src="@/assets/images/logo-component-home/Logo-4.png"
           alt="Logo 4"
           class="w-[136px] h-[32px]"
         />
         <img
-          src="@/assets/images/logo-component-home/logo-5.png"
+          src="@/assets/images/logo-component-home/Logo-5.png"
           alt="Logo 5"
           class="w-[136px] h-[32px]"
         />
