@@ -176,12 +176,10 @@
           href="#"
           class="[max-width:296px] [max-height:96px] justify-between border-x-mediumgrey hover:bg-x-blue flex items-center border border-opacity-40 p-8 group transition duration-150 ease-in-out"
           ><div class="flex relative z-0 items-center gap-x-4">
-            <div
+            <img
+              src="@/assets/images/home-category/shuttle.png"
               class="absolute left-0 z-0 w-12 inset-y-0 bg-no-repeat bg-center bg-contain"
-              style="
-                background-image: url('/src/assets/images/misc/startup.png');
-              "
-            ></div>
+            />
             <icon class="z-[2] flex-shrink-0 h-12 w-12"></icon>
             <div
               class="text-x-black text-[23px] leading-10 font-bold group-hover:text-white"
@@ -193,12 +191,10 @@
           href="#"
           class="[max-width:296px] [max-height:96px] justify-between border-x-mediumgrey hover:bg-x-blue flex items-center border border-opacity-40 p-8 group transition duration-150 ease-in-out"
           ><div class="flex relative z-0 items-center gap-x-4">
-            <div
+            <img
+              src="@/assets/images/home-category/tech.png"
               class="absolute left-0 z-0 w-12 inset-y-0 bg-no-repeat bg-center bg-contain"
-              style="
-                background-image: url('/src/assets/images/misc/business.png');
-              "
-            ></div>
+            />
             <icon class="z-[2] flex-shrink-0 h-12 w-12"></icon>
             <div
               class="text-x-black text-[23px] leading-10 font-bold group-hover:text-white"
@@ -210,12 +206,10 @@
           href="#"
           class="[max-width:296px] [max-height:96px] justify-between border-x-mediumgrey hover:bg-x-blue flex items-center border border-opacity-40 p-8 group transition duration-150 ease-in-out"
           ><div class="flex relative z-0 items-center gap-x-4">
-            <div
+            <img
+              src="@/assets/images/home-category/economy.png"
               class="absolute left-0 z-0 w-12 inset-y-0 bg-no-repeat bg-center bg-contain"
-              style="
-                background-image: url('/src/assets/images/misc/economy.png');
-              "
-            ></div>
+            />
             <icon class="z-[2] flex-shrink-0 h-12 w-12"></icon>
             <div
               class="text-x-black text-[23px] leading-10 font-bold group-hover:text-white"
@@ -227,12 +221,10 @@
           href="#"
           class="[max-width:296px] [max-height:96px] justify-between border-x-mediumgrey hover:bg-x-blue flex items-center border border-opacity-40 p-8 group transition duration-150 ease-in-out"
           ><div class="flex relative z-0 items-center gap-x-4">
-            <div
+            <img
+              src="@/assets/images/home-category/cyborg.png"
               class="absolute left-0 z-0 w-12 inset-y-0 bg-no-repeat bg-center bg-contain"
-              style="
-                background-image: url('/src/assets/images/misc/technology.png');
-              "
-            ></div>
+            />
             <icon class="z-[2] flex-shrink-0 h-12 w-12"></icon>
             <div
               class="text-x-black text-[23px] leading-10 font-bold group-hover:text-white"
