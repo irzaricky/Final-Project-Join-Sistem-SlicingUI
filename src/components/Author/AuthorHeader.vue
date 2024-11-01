@@ -9,7 +9,7 @@ import ListSocial from '../ListSocial.vue'
     <div class="h-[294px] text-black w-2/3 flex">
       <div class="">
         <img
-          src="@/assets/images/Author/author-Andrew.png"
+          src="@/assets/images/Author/Author-Andrew.png"
           alt="Design tips article featured image"
           class="object-contain h-full max-md:max-w-full"
         />
